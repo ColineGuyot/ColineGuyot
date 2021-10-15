@@ -1,5 +1,4 @@
 I’m @ColineGuyot,
-I’m currently doing a thesis on electron accelerators and collective effects in IJCLAb (Orsay, France).
 cguyot@ijclab.in2p3.fr
 
 <!---
